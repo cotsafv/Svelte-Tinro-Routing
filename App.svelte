@@ -1,3 +1,7 @@
+<!-- use npm to install tinro first pls or u dumb lol -->
+
+
+
 <script>
     import {Route} from 'tinro'; 
 </script>
